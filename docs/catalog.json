@@ -150,7 +150,6 @@
     }
   ],
   "aggregations": {
-    "byCategory": {
       "clothing": {
         "count": 8,
         "inventoryValue": 147400.83
@@ -167,6 +166,5 @@
         "count": 1,
         "inventoryValue": 63393.12
       }
-    }
   }
 }
