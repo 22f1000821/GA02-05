@@ -1,0 +1,11 @@
+name: Assignment Workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 22f1000821@ds.study.iitm.ac.in
+        run: echo "Hello, world! This step name contains my email."
